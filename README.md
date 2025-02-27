@@ -1,7 +1,7 @@
 <!-- Display an image from the assets folder -->
 <p align="center">
-  <img src="assets/your-image.png" width="70%" alt="Your Image">
+  <img src="Coding_Garden.gif" width="100%" alt="Animated Preview">
 </p>
 
-<h1 align="center">Hey, I'm Jawaria!</h1>
+<h2 align="center">Hey, I'm Jawaria!</h2>
 
