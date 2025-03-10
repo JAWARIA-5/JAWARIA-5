@@ -20,7 +20,7 @@
      <img src="https://img.shields.io/badge/My%20Medium-D6E6FD" />
   </a>
 
- <a href="https://docs.google.com/document/d/1Wmn_tBBsni9ZI4n6DJVybfxozKsEeTu_6FNWoUQ4FUQ/edit?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1yqkpDZb_TVLzghF1YYl_wOS3fXuG8Zqq/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/My%20Resume-fccb77" />
 </a>
 
